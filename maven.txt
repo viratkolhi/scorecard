@@ -1,0 +1,8 @@
+1) maven is a automation and project management tool devloped by apache software   foundation.
+
+2) It is based on POM (project object model)
+
+3) It is mostly used for java based project and maven written in Java Language
+
+4) It reffers to the java libraries that are needed for the project
+
