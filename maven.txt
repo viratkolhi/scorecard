@@ -1,8 +1,25 @@
 1) maven is a automation and project management tool devloped by apache software   foundation.
 
-2) It is based on POM (project object model)
+2) It is based on POM (project object model).
 
-3) It is mostly used for java based project and maven written in Java Language
+3) It is mostly used for java based project and maven written in Java Language.
 
-4) It reffers to the java libraries that are needed for the project
+4) It reffers to the java libraries that are needed for the project.
+
+5) POM is a project object model , pom refers to the pom.xml file that have all    information regarding the Project and configuration details.
+
+6) Local repository refers to the machine of the developers where all project ma   materials is saved.
+
+7) It refers to the repository present on a web server which is used in Maven      need to downloads dependencies this repository work same as a central repo      when never anything is needed from remote repository it is a first downloaded   to the local repo then it is a used.
+
+8) Central repository refers to the MAVEN community that comes into in action
+   when there is a need of dependencies and these dependencies cannot be found
+   in the local repository. 
+   1) Genral Resource 
+   2) Compile code 
+   3) Unit Test 
+   4) Package 
+   5) Install (Local Repo and Repo)
+   6) Deploy (To server)
+    
 
